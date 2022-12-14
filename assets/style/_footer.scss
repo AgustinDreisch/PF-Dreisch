@@ -34,7 +34,7 @@
         color: $color_white;
     }
 }
-//680px
+
 @media (max-width: map-get($_breakpoints, md)){
     .footer-container{
         flex-direction: column;
